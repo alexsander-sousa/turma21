@@ -61,5 +61,5 @@ public class L2Ex2 {
 			}
 		}
 		System.out.printf("\nNúmero digitados em ordem crecente: %d , %d , %d .",pNum,sNum,tNum);
-		}
+	}
 }
