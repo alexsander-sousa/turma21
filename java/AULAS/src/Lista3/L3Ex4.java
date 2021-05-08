@@ -21,7 +21,7 @@ public class L3Ex4 {
 	Scanner read = new Scanner(System.in);
 	
 	//variables
-	int idade=0, sexo=0, temperamento=0, i=0, totalPessoas=150;
+	int idade=0, sexo=0, temperamento=0, i=0, totalPessoas=5;
 	int pessoaCalma=0, mulherNervosa=0, homemAgressivo=0, outroCalmo=0, idosoNervoso=0, jovemCalmo=0;
 	//input
 	System.out.println("Pessoas, sexos e seus temperamentos");
